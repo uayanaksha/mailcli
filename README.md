@@ -1,7 +1,6 @@
 # MAILCLI
 
-
-[!(Demo Video)](static/video.webm)
+![Demo Video](static/video.mp4)
 
 A mail client that is used to email text files. The package has beeen properly tested in order to prevent from security issues and has been developed in a user friendly manner
 
