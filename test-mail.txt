@@ -1,0 +1,7 @@
+From: <sender>[...@yahoo.com]
+To: <recipient>[...@gmail.com]
+Subject: <subject-text>
+
+<Text-Content>
+
+<Date>[Example: Fri Aug 30 11:58:46 AM IST 2024]
