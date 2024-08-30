@@ -1,6 +1,6 @@
 # MAILCLI
 
-![Demo Video](https://www.youtube.com/watch?v=oLxcLGl13vA)
+[Demo link](https://www.youtube.com/watch?v=oLxcLGl13vA)
 
 A mail client that is used to email text files. The package has beeen properly tested in order to prevent from security issues and has been developed in a user friendly manner
 
